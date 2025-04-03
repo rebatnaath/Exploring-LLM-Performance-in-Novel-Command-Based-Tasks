@@ -1,0 +1,90 @@
+{
+    "flags": [
+        {
+            "title": "Nepal",
+            "commands": [
+                "bg:#DC143C",
+                "A1-A30:#0000FF",
+                "B1-B30:#FFFFFF"
+            ]
+        },
+        {
+            "title": "Germany",
+            "commands": [
+                "bg:#000000",
+                "A1-A10:#FF0000",
+                "A11-A20:#FFFFFF",
+                "A21-A30:#FFCC00"
+            ]
+        },
+        {
+            "title": "Sweden",
+            "commands": [
+                "bg:#006AA7",
+                "A1-A30:#FFCD00",
+                "C1-C30:#FFCD00",
+                "A15-X15:#FFCD00"
+            ]
+        },
+        {
+            "title": "Brazil",
+            "commands": [
+                "bg:#009B3A",
+                "A1-A30:#FFDF00",
+                "A15-X15:#002776",
+                "A15-A30:#002776"
+            ]
+        },
+        {
+            "title": "Zambia",
+            "commands": [
+                "bg:#007847",
+                "A1-A10:#FF0000",
+                "A11-A20:#000000",
+                "A21-A30:#FF8C00"
+            ]
+        },
+        {
+            "title": "Australia",
+            "commands": [
+                "bg:#00008B",
+                "A1-A30:#FFFFFF",
+                "A1-A10:#FF0000",
+                "A21-A30:#FF0000"
+            ]
+        },
+        {
+            "title": "Bhutan",
+            "commands": [
+                "bg:#FFCC00",
+                "A1-A30:#FFFFFF",
+                "A15-X15:#FF0000"
+            ]
+        },
+        {
+            "title": "Saudi Arabia",
+            "commands": [
+                "bg:#006233",
+                "A1-A30:#FFFFFF",
+                "A15-X15:#000000"
+            ]
+        },
+        {
+            "title": "Kazakhstan",
+            "commands": [
+                "bg:#00AFCA",
+                "A1-A30:#FFD700",
+                "A15-X15:#008000"
+            ]
+        },
+        {
+            "title": "Tanzania",
+            "commands": [
+                "bg:#1EB53A",
+                "A1-A10:#000000",
+                "A11-A20:#FFD700",
+                "A21-A30:#00A3DD"
+            ]
+        }
+    ]
+}

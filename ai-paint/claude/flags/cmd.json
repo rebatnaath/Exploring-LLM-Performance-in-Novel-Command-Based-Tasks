@@ -1,0 +1,117 @@
+{
+    "flags": [
+      {
+        "title": "Nepal",
+        "commands": [
+          "bg:#003893",
+          "A1-S30:#DC143C",
+          "A1-I15:#003893",
+          "J16-S30:#003893",
+          "H8,I9,J10,I11,H12:#FFFFFF",
+          "D24,E25,F26,G27,H28,I27,J26,K25,L24:#FFFFFF"
+        ]
+      },
+      {
+        "title": "Germany",
+        "commands": [
+          "bg:#000000",
+          "A1-x10:#000000",
+          "A11-x20:#FF0000",
+          "A21-x30:#FFCC00"
+        ]
+      },
+      {
+        "title": "Sweden",
+        "commands": [
+          "bg:#006AA7",
+          "J1-L30:#FECC00",
+          "A12-x14:#FECC00"
+        ]
+      },
+      {
+        "title": "Brazil",
+        "commands": [
+          "bg:#009C3B",
+          "E5-P25:#FFDF00",
+          "J12-K18:#002776",
+          "H15,I14,I15,I16,J13,J14,J15,J16,J17,K14,K15,K16,L15:#FFFFFF"
+        ]
+      },
+      {
+        "title": "Zambia",
+        "commands": [
+          "bg:#198A00",
+          "A1-x10:#000000",
+          "A21-x30:#F5821F",
+          "S1-U30:#EF7D00"
+        ]
+      },
+      {
+        "title": "Australia",
+        "commands": [
+          "bg:#00008B",
+          "A1-G15:#00008B",
+          "C3,D4,E5,F6,C6,D5,E4,F3:#FFFFFF",
+          "A8-G9:#FFFFFF",
+          "C1-D15:#FFFFFF",
+          "A25,B26,C27,D28,E27,F26,G25:#FFFFFF",
+          "S1,T2,U3,V4,W5,S5,T4,U3,V2,W1:#FFFFFF",
+          "Q15,R16,S17,R14,S13:#FFFFFF",
+          "M25,N26,O27,N24,O23:#FFFFFF",
+          "U25,V26,W27,U27,V28,W29:#FFFFFF"
+        ]
+      },
+      {
+        "title": "Bhutan",
+        "commands": [
+          "bg:#FF4E12",
+          "A1-x15:#FFC400",
+          "A16-x30:#FF4E12",
+          "J10-L20:#FFFFFF",
+          "I11-M19:#FFFFFF",
+          "H13-N17:#FFFFFF",
+          "I14,J14,K13,K14,K15,K16,L14,L15:#FF4E12"
+        ]
+      },
+      {
+        "title": "Saudi Arabia",
+        "commands": [
+          "bg:#006C35",
+          "G12-N18:#FFFFFF",
+          "F13-O17:#FFFFFF",
+          "E14-P16:#FFFFFF",
+          "I14-L16:#006C35",
+          "J10-K11:#006C35",
+          "J19-K20:#006C35"
+        ]
+      },
+      {
+        "title": "Kazakhstan",
+        "commands": [
+          "bg:#00AFCA",
+          "D12-P18:#FFCD00",
+          "C13-Q17:#FFCD00",
+          "B14-R16:#FFCD00",
+          "A15:#FFCD00",
+          "S15:#FFCD00",
+          "T14:#FFCD00",
+          "U13:#FFCD00",
+          "V12:#FFCD00",
+          "A30-x30:#FFCD00",
+          "A1-x1:#FFCD00"
+        ]
+      },
+      {
+        "title": "Tanzania",
+        "commands": [
+          "bg:#1EB53A",
+          "A1-x30:#1EB53A",
+          "A1-x10:#000000",
+          "A21-x30:#000000",
+          "A1-P30:#00A3DD",
+          "A1-E30:#FFCD00",
+          "D1-F30:#000000"
+        ]
+      }
+    ]
+  }

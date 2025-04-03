@@ -1,0 +1,173 @@
+{
+    "flags": [
+        {
+            "title": "Nepal",
+            "commands": [
+                "bg:#FFFFFF",
+                "A1-A30:#DC143C",
+                "B1-B30:#DC143C",
+                "C1-C30:#DC143C",
+                "D1-D30:#DC143C",
+                "E1-E30:#DC143C",
+                "F1-F30:#DC143C",
+                "G1-G30:#DC143C",
+                "H1-H30:#DC143C",
+                "I1-I30:#DC143C",
+                "J1-J30:#DC143C",
+                "K1-K30:#DC143C",
+                "L1-L30:#DC143C",
+                "M1-M30:#DC143C",
+                "N1-N30:#DC143C",
+                "O1-O30:#DC143C",
+                "P1-P30:#DC143C",
+                "Q1-Q30:#DC143C",
+                "R1-R30:#DC143C",
+                "S1-S30:#DC143C",
+                "T1-T30:#DC143C",
+                "U1-U30:#DC143C",
+                "V1-V30:#DC143C",
+                "W1-W30:#DC143C",
+                "X1-X30:#DC143C",
+                "Y1-Y30:#DC143C",
+                "Z1-Z30:#DC143C",
+                "a1-a30:#DC143C",
+                "b1-b30:#DC143C",
+                "c1-c30:#DC143C",
+                "d1-d30:#DC143C",
+                "e1-e30:#DC143C",
+                "f1-f30:#DC143C",
+                "g1-g30:#DC143C",
+                "h1-h30:#DC143C",
+                "i1-i30:#DC143C",
+                "j1-j30:#DC143C",
+                "k1-k30:#DC143C",
+                "l1-l30:#DC143C",
+                "m1-m30:#DC143C",
+                "n1-n30:#DC143C",
+                "o1-o30:#DC143C",
+                "p1-p30:#DC143C",
+                "q1-q30:#DC143C",
+                "r1-r30:#DC143C",
+                "s1-s30:#DC143C",
+                "t1-t30:#DC143C",
+                "u1-u30:#DC143C",
+                "v1-v30:#DC143C",
+                "w1-w30:#DC143C",
+                "x1-x30:#DC143C"
+            ]
+        },
+        {
+            "title": "Germany",
+            "commands": [
+                "bg:#000000",
+                "A1-x10:#000000",
+                "A11-x20:#DD0000",
+                "A21-x30:#FFCC00"
+            ]
+        },
+        {
+            "title": "Sweden",
+            "commands": [
+                "bg:#005BAC",
+                "A1-x30:#005BAC",
+                "A1-x30:#FFCD00",
+                "A1-A30:#FFCD00",
+                "x1-x30:#FFCD00",
+                "A15-x15:#FFCD00",
+                "A15-A30:#FFCD00",
+                "x15-x30:#FFCD00"
+            ]
+        },
+        {
+            "title": "Brazil",
+            "commands": [
+                "bg:#009B3A",
+                "A1-x30:#009B3A",
+                "A1-x30:#FFCC00",
+                "A1-A30:#FFCC00",
+                "x1-x30:#FFCC00",
+                "A15-x15:#FFCC00",
+                "A15-A30:#FFCC00",
+                "x15-x30:#FFCC00"
+            ]
+        },
+        {
+            "title": "Zambia",
+            "commands": [
+                "bg:#007847",
+                "A1-x30:#007847",
+                "A1-x30:#FF0000",
+                "A1-A30:#FF0000",
+                "x1-x30:#FF0000",
+                "A15-x15:#FF0000",
+                "A15-A30:#FF0000",
+                "x15-x30:#FF0000"
+            ]
+        },
+        {
+            "title": "Australia",
+            "commands": [
+                "bg:#00008B",
+                "A1-x30:#00008B",
+                "A1-x30:#FFFFFF",
+                "A1-A30:#FFFFFF",
+                "x1-x30:#FFFFFF",
+                "A15-x15:#FFFFFF",
+                "A15-A30:#FFFFFF",
+                "x15-x30:#FFFFFF"
+            ]
+        },
+        {
+            "title": "Bhutan",
+            "commands": [
+                "bg:#FFCC00",
+                "A1-x30:#FFCC00",
+                "A1-x30:#FF0000",
+                "A1-A30:#FF0000",
+                "x1-x30:#FF0000",
+                "A15-x15:#FF0000",
+                "A15-A30:#FF0000",
+                "x15-x30:#FF0000"
+            ]
+        },
+        {
+            "title": "Saudi Arabia",
+            "commands": [
+                "bg:#006C35",
+                "A1-x30:#006C35",
+                "A1-x30:#FFFFFF",
+                "A1-A30:#FFFFFF",
+                "x1-x30:#FFFFFF",
+                "A15-x15:#FFFFFF",
+                "A15-A30:#FFFFFF",
+                "x15-x30:#FFFFFF"
+            ]
+        },
+        {
+            "title": "Kazakhstan",
+            "commands": [
+                "bg:#00AFCA",
+                "A1-x30:#00AFCA",
+                "A1-x30:#FFCC00",
+                "A1-A30:#FFCC00",
+                "x1-x30:#FFCC00",
+                "A15-x15:#FFCC00",
+                "A15-A30:#FFCC00",
+                "x15-x30:#FFCC00"
+            ]
+        },
+        {
+            "title": "Tanzania",
+            "commands": [
+                "bg:#1EB53A",
+                "A1-x30:#1EB53A",
+                "A1-x30:#FFCC00",
+                "A1-A30:#FFCC00",
+                "x1-x30:#FFCC00",
+                "A15-x15:#FFCC00",
+                "A15-A30:#FFCC00",
+                "x15-x30:#FFCC00"
+            ]
+        }
+    ]
+}
