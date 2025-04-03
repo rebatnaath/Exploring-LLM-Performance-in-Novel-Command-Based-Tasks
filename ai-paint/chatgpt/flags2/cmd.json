@@ -1,0 +1,89 @@
+{
+    "flags": [
+        {
+            "title": "Nepal",
+            "commands": [
+                "bg:#FFFFFF",
+                "A1-F10:#DC143C",
+                "B2-D4:#FFFFFF",
+                "C3:#0000FF"
+            ]
+        },
+        {
+            "title": "Germany",
+            "commands": [
+                "bg:#000000",
+                "A11-x20:#FF0000",
+                "A21-x30:#FFD700"
+            ]
+        },
+        {
+            "title": "Sweden",
+            "commands": [
+                "bg:#0066CC",
+                "J1-J30:#FFD700",
+                "A13-x17:#FFD700"
+            ]
+        },
+        {
+            "title": "Brazil",
+            "commands": [
+                "bg:#009739",
+                "M8-T23:#FFFF00",
+                "N12-S19:#0000FF",
+                "O14,R14,P16,Q16:#FFFFFF"
+            ]
+        },
+        {
+            "title": "Zambia",
+            "commands": [
+                "bg:#008000",
+                "w1-x10:#FF6600",
+                "w11-x20:#FF0000",
+                "w21-x30:#FFFF00"
+            ]
+        },
+        {
+            "title": "Australia",
+            "commands": [
+                "bg:#00008B",
+                "A1-G10:#FFFFFF",
+                "B2-E8:#FF0000",
+                "N5,N10,S8,T12:#FFFFFF"
+            ]
+        },
+        {
+            "title": "Bhutan",
+            "commands": [
+                "bg:#FF9933",
+                "A16-x30:#FFD700",
+                "M16-T24:#FFFFFF"
+            ]
+        },
+        {
+            "title": "Saudi Arabia",
+            "commands": [
+                "bg:#006C35",
+                "M12-T18:#FFFFFF",
+                "O14-R16:#FFFFFF"
+            ]
+        },
+        {
+            "title": "Kazakhstan",
+            "commands": [
+                "bg:#00AEEF",
+                "M8-T23:#FFD700",
+                "O12-R19:#FFD700"
+            ]
+        },
+        {
+            "title": "Tanzania",
+            "commands": [
+                "bg:#17B636",
+                "A1-x30:#000000",
+                "A1-F6:#FFD700",
+                "G7-x30:#00AEEF"
+            ]
+        }
+    ]
+}
