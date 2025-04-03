@@ -1,0 +1,99 @@
+{
+    "flags": [
+        {
+            "title": "Nepal",
+            "commands": [
+                "bg:#FFFFFF",
+                "A1-E30:#CD2E3F",
+                "F1-O30:#009DAE",
+                "P1-Y30:#FFD700",
+                "Z1-x30:#CD2E3F"
+            ]
+        },
+        {
+            "title": "Germany",
+            "commands": [
+                "bg:#FFFFFF",
+                "A1-x15:#000000",
+                "A16-x30:#FF0000",
+                "A16-x30:#FFCD00"
+            ]
+        },
+        {
+            "title": "Sweden",
+            "commands": [
+                "bg:#FFFFFF",
+                "A1-x15:#006A6A",
+                "A16-x30:#FECC00"
+            ]
+        },
+        {
+            "title": "Brazil",
+            "commands": [
+                "bg:#FFFFFF",
+                "A1-x30:#00923E",
+                "D1-J15:#FFD700",
+                "D16-J30:#00923E",
+                "A16-x30:#00BFFF"
+            ]
+        },
+        {
+            "title": "Zambia",
+            "commands": [
+                "bg:#FFFFFF",
+                "A1-x15:#008000",
+                "A16-x25:#FFD700",
+                "A26-x30:#008000",
+                "E1-E30:#FF0000"
+            ]
+        },
+        {
+            "title": "Australia",
+            "commands": [
+                "bg:#FFFFFF",
+                "A1-x30:#00008B",
+                "A1-H10:#FFD700",
+                "I1-M10:#FFD700",
+                "A20-H30:#FFD700",
+                "I20-M30:#FFD700"
+            ]
+        },
+        {
+            "title": "Bhutan",
+            "commands": [
+                "bg:#FFFFFF",
+                "A1-x30:#FFC080",
+                "A1-M15:#FF69B4",
+                "N1-x30:#FFC080"
+            ]
+        },
+        {
+            "title": "Saudi Arabia",
+            "commands": [
+                "bg:#FFFFFF",
+                "A1-x30:#008000",
+                "A1-x15:#FFFFFF",
+                "A1-x15:#FFD700"
+            ]
+        },
+        {
+            "title": "Kazakhstan",
+            "commands": [
+                "bg:#FFFFFF",
+                "A1-x30:#0073CF",
+                "A1-x15:#FFD700",
+                "E1-E30:#FF0000"
+            ]
+        },
+        {
+            "title": "Tanzania",
+            "commands": [
+                "bg:#FFFFFF",
+                "A1-x15:#008000",
+                "A16-x30:#FFD700",
+                "E1-E30:#0000FF",
+                "A16-x30:#008000"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "flags": [
+        {
+            "title": "Nepal",
+            "commands": [
+                "bg:#FFFFFF",
+                "A1-E30:#CD212A",
+                "F1-O30:#008000"
+            ]
+        },
+        {
+            "title": "Germany",
+            "commands": [
+                "bg:#FFFFFF",
+                "A1-U15:#000000",
+                "A16-U30:#FF0000",
+                "A1-U30:#FFCD00"
+            ]
+        },
+        {
+            "title": "Sweden",
+            "commands": [
+                "bg:#FFFFFF",
+                "A1-T15:#006A6A",
+                "A16-T30:#FFD700",
+                "U1-T30:#006A6A"
+            ]
+        },
+        {
+            "title": "Brazil",
+            "commands": [
+                "bg:#3B3F4E",
+                "A1-U30:#009739",
+                "E16-T30:#FFD700",
+                "A1-A30:#3B3F4E",
+                "A1-E30:#FFFFFF"
+            ]
+        },
+        {
+            "title": "Zambia",
+            "commands": [
+                "bg:#CF000F",
+                "A1-T15:#008000",
+                "A16-T30:#FFD700",
+                "U1-T30:#008000"
+            ]
+        },
+        {
+            "title": "Australia",
+            "commands": [
+                "bg:#00008B",
+                "A1-U30:#FFD700",
+                "A1-A30:#008000",
+                "A1-E30:#FFD700",
+                "A1-A30:#008000"
+            ]
+        },
+        {
+            "title": "Bhutan",
+            "commands": [
+                "bg:#FFFFFF",
+                "A1-E30:#FFC080",
+                "F1-O30:#FF69B4",
+                "A1-U30:#FFC080"
+            ]
+        },
+        {
+            "title": "Saudi Arabia",
+            "commands": [
+                "bg:#008000",
+                "A1-U30:#FFFFFF",
+                "A1-A30:#008000",
+                "A1-E30:#FFFFFF"
+            ]
+        },
+        {
+            "title": "Kazakhstan",
+            "commands": [
+                "bg:#00008B",
+                "A1-U30:#FFD700",
+                "A1-A30:#008000"
+            ]
+        },
+        {
+            "title": "Tanzania",
+            "commands": [
+                "bg:#008744",
+                "A1-U30:#008744",
+                "A1-E30:#FFD700",
+                "F1-O30:#008744",
+                "A1-U30:#008744",
+                "A1-E30:#FFCE00",
+                "F1-O30:#008744",
+                "A1-U30:#008744"
+            ]
+        }
+    ]
+}
