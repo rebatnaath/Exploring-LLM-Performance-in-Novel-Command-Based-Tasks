@@ -1,0 +1,1204 @@
+{
+    "summary": {
+        "total_ai_models": 7,
+        "total_subfolders": 21,
+        "most_efficient_model": "chatgpt-o1",
+        "least_overwrites_model": "deepseek"
+    },
+    "ai_models": {
+        "chatgpt-4o": {
+            "subfolders": {
+                "flags": {
+                    "total_commands": 37,
+                    "total_overwrites": 7638,
+                    "flags": {
+                        "Nepal": {
+                            "commands": 6,
+                            "is_efficient": false,
+                            "overwrites": 1678
+                        },
+                        "Germany": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 1000
+                        },
+                        "Sweden": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 160
+                        },
+                        "Brazil": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 925
+                        },
+                        "Zambia": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 60
+                        },
+                        "Australia": {
+                            "commands": 5,
+                            "is_efficient": false,
+                            "overwrites": 116
+                        },
+                        "Bhutan": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 945
+                        },
+                        "Saudi Arabia": {
+                            "commands": 2,
+                            "is_efficient": true,
+                            "overwrites": 99
+                        },
+                        "Kazakhstan": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 155
+                        },
+                        "Tanzania": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 2500
+                        }
+                    }
+                },
+                "flags2": {
+                    "total_commands": 35,
+                    "total_overwrites": 5334,
+                    "flags": {
+                        "Nepal": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 70
+                        },
+                        "Germany": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 1000
+                        },
+                        "Sweden": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 280
+                        },
+                        "Brazil": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 180
+                        },
+                        "Zambia": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 60
+                        },
+                        "Australia": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 102
+                        },
+                        "Bhutan": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 822
+                        },
+                        "Saudi Arabia": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 68
+                        },
+                        "Kazakhstan": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 160
+                        },
+                        "Tanzania": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 2592
+                        }
+                    }
+                },
+                "flags3": {
+                    "total_commands": 38,
+                    "total_overwrites": 6201,
+                    "flags": {
+                        "Nepal": {
+                            "commands": 6,
+                            "is_efficient": false,
+                            "overwrites": 1804
+                        },
+                        "Germany": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 1000
+                        },
+                        "Sweden": {
+                            "commands": 2,
+                            "is_efficient": true,
+                            "overwrites": 1
+                        },
+                        "Brazil": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 208
+                        },
+                        "Zambia": {
+                            "commands": 5,
+                            "is_efficient": false,
+                            "overwrites": 160
+                        },
+                        "Australia": {
+                            "commands": 5,
+                            "is_efficient": false,
+                            "overwrites": 99
+                        },
+                        "Bhutan": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 752
+                        },
+                        "Saudi Arabia": {
+                            "commands": 2,
+                            "is_efficient": true,
+                            "overwrites": 66
+                        },
+                        "Kazakhstan": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 91
+                        },
+                        "Tanzania": {
+                            "commands": 5,
+                            "is_efficient": false,
+                            "overwrites": 2020
+                        }
+                    }
+                }
+            }
+        },
+        "chatgpt-o1": {
+            "subfolders": {
+                "flags": {
+                    "total_commands": 32,
+                    "total_overwrites": 5686,
+                    "flags": {
+                        "Nepal": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 330
+                        },
+                        "Germany": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 1000
+                        },
+                        "Sweden": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 320
+                        },
+                        "Brazil": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 606
+                        },
+                        "Zambia": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 183
+                        },
+                        "Australia": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 139
+                        },
+                        "Bhutan": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 1528
+                        },
+                        "Saudi Arabia": {
+                            "commands": 2,
+                            "is_efficient": true,
+                            "overwrites": 40
+                        },
+                        "Kazakhstan": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 40
+                        },
+                        "Tanzania": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 1500
+                        }
+                    }
+                },
+                "flags2": {
+                    "total_commands": 35,
+                    "total_overwrites": 4624,
+                    "flags": {
+                        "Nepal": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 176
+                        },
+                        "Germany": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 1500
+                        },
+                        "Sweden": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 320
+                        },
+                        "Brazil": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 510
+                        },
+                        "Zambia": {
+                            "commands": 2,
+                            "is_efficient": true,
+                            "overwrites": 55
+                        },
+                        "Australia": {
+                            "commands": 6,
+                            "is_efficient": false,
+                            "overwrites": 43
+                        },
+                        "Bhutan": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 1503
+                        },
+                        "Saudi Arabia": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 35
+                        },
+                        "Kazakhstan": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 32
+                        },
+                        "Tanzania": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 450
+                        }
+                    }
+                },
+                "flags3": {
+                    "total_commands": 29,
+                    "total_overwrites": 4840,
+                    "flags": {
+                        "Nepal": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 380
+                        },
+                        "Germany": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 1000
+                        },
+                        "Sweden": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 180
+                        },
+                        "Brazil": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 672
+                        },
+                        "Zambia": {
+                            "commands": 2,
+                            "is_efficient": true,
+                            "overwrites": 385
+                        },
+                        "Australia": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 104
+                        },
+                        "Bhutan": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 754
+                        },
+                        "Saudi Arabia": {
+                            "commands": 2,
+                            "is_efficient": true,
+                            "overwrites": 38
+                        },
+                        "Kazakhstan": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 259
+                        },
+                        "Tanzania": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 1068
+                        }
+                    }
+                }
+            }
+        },
+        "claude": {
+            "subfolders": {
+                "flags": {
+                    "total_commands": 63,
+                    "total_overwrites": 9493,
+                    "flags": {
+                        "Nepal": {
+                            "commands": 6,
+                            "is_efficient": false,
+                            "overwrites": 869
+                        },
+                        "Germany": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 1500
+                        },
+                        "Sweden": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 240
+                        },
+                        "Brazil": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 279
+                        },
+                        "Zambia": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 1090
+                        },
+                        "Australia": {
+                            "commands": 10,
+                            "is_efficient": false,
+                            "overwrites": 190
+                        },
+                        "Bhutan": {
+                            "commands": 7,
+                            "is_efficient": false,
+                            "overwrites": 1621
+                        },
+                        "Saudi Arabia": {
+                            "commands": 7,
+                            "is_efficient": false,
+                            "overwrites": 162
+                        },
+                        "Kazakhstan": {
+                            "commands": 11,
+                            "is_efficient": false,
+                            "overwrites": 322
+                        },
+                        "Tanzania": {
+                            "commands": 7,
+                            "is_efficient": false,
+                            "overwrites": 3220
+                        }
+                    }
+                },
+                "flags2": {
+                    "total_commands": 172,
+                    "total_overwrites": 10022,
+                    "flags": {
+                        "Nepal": {
+                            "commands": 42,
+                            "is_efficient": false,
+                            "overwrites": 1095
+                        },
+                        "Germany": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 1000
+                        },
+                        "Sweden": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 240
+                        },
+                        "Brazil": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 485
+                        },
+                        "Zambia": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 1090
+                        },
+                        "Australia": {
+                            "commands": 33,
+                            "is_efficient": false,
+                            "overwrites": 537
+                        },
+                        "Bhutan": {
+                            "commands": 13,
+                            "is_efficient": false,
+                            "overwrites": 1631
+                        },
+                        "Saudi Arabia": {
+                            "commands": 9,
+                            "is_efficient": false,
+                            "overwrites": 413
+                        },
+                        "Kazakhstan": {
+                            "commands": 16,
+                            "is_efficient": false,
+                            "overwrites": 141
+                        },
+                        "Tanzania": {
+                            "commands": 45,
+                            "is_efficient": false,
+                            "overwrites": 3390
+                        }
+                    }
+                },
+                "flags3": {
+                    "total_commands": 156,
+                    "total_overwrites": 12281,
+                    "flags": {
+                        "Nepal": {
+                            "commands": 35,
+                            "is_efficient": false,
+                            "overwrites": 1739
+                        },
+                        "Germany": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 1000
+                        },
+                        "Sweden": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 240
+                        },
+                        "Brazil": {
+                            "commands": 5,
+                            "is_efficient": false,
+                            "overwrites": 1248
+                        },
+                        "Zambia": {
+                            "commands": 6,
+                            "is_efficient": false,
+                            "overwrites": 1620
+                        },
+                        "Australia": {
+                            "commands": 44,
+                            "is_efficient": false,
+                            "overwrites": 593
+                        },
+                        "Bhutan": {
+                            "commands": 11,
+                            "is_efficient": false,
+                            "overwrites": 2218
+                        },
+                        "Saudi Arabia": {
+                            "commands": 6,
+                            "is_efficient": false,
+                            "overwrites": 108
+                        },
+                        "Kazakhstan": {
+                            "commands": 11,
+                            "is_efficient": false,
+                            "overwrites": 515
+                        },
+                        "Tanzania": {
+                            "commands": 32,
+                            "is_efficient": false,
+                            "overwrites": 3000
+                        }
+                    }
+                }
+            }
+        },
+        "deepseek": {
+            "subfolders": {
+                "flags": {
+                    "total_commands": 36,
+                    "total_overwrites": 516,
+                    "flags": {
+                        "Nepal": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 60
+                        },
+                        "Germany": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 30
+                        },
+                        "Sweden": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 84
+                        },
+                        "Brazil": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 70
+                        },
+                        "Zambia": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 30
+                        },
+                        "Australia": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 50
+                        },
+                        "Bhutan": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 54
+                        },
+                        "Saudi Arabia": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 54
+                        },
+                        "Kazakhstan": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 54
+                        },
+                        "Tanzania": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 30
+                        }
+                    }
+                },
+                "flags2": {
+                    "total_commands": 43,
+                    "total_overwrites": 21310,
+                    "flags": {
+                        "Germany": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 1000
+                        },
+                        "Sweden": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 1580
+                        },
+                        "Brazil": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 2050
+                        },
+                        "Nepal": {
+                            "commands": 6,
+                            "is_efficient": false,
+                            "overwrites": 3060
+                        },
+                        "Zambia": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 1500
+                        },
+                        "Australia": {
+                            "commands": 6,
+                            "is_efficient": false,
+                            "overwrites": 3060
+                        },
+                        "Bhutan": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 3000
+                        },
+                        "Saudi Arabia": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 1560
+                        },
+                        "Kazakhstan": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 3000
+                        },
+                        "Tanzania": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 1500
+                        }
+                    }
+                },
+                "flags3": {
+                    "total_commands": 119,
+                    "total_overwrites": 28136,
+                    "flags": {
+                        "Nepal": {
+                            "commands": 51,
+                            "is_efficient": false,
+                            "overwrites": 1500
+                        },
+                        "Germany": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 1500
+                        },
+                        "Sweden": {
+                            "commands": 8,
+                            "is_efficient": false,
+                            "overwrites": 3142
+                        },
+                        "Brazil": {
+                            "commands": 8,
+                            "is_efficient": false,
+                            "overwrites": 3142
+                        },
+                        "Zambia": {
+                            "commands": 8,
+                            "is_efficient": false,
+                            "overwrites": 3142
+                        },
+                        "Australia": {
+                            "commands": 8,
+                            "is_efficient": false,
+                            "overwrites": 3142
+                        },
+                        "Bhutan": {
+                            "commands": 8,
+                            "is_efficient": false,
+                            "overwrites": 3142
+                        },
+                        "Saudi Arabia": {
+                            "commands": 8,
+                            "is_efficient": false,
+                            "overwrites": 3142
+                        },
+                        "Kazakhstan": {
+                            "commands": 8,
+                            "is_efficient": false,
+                            "overwrites": 3142
+                        },
+                        "Tanzania": {
+                            "commands": 8,
+                            "is_efficient": false,
+                            "overwrites": 3142
+                        }
+                    }
+                }
+            }
+        },
+        "deepseek-r1": {
+            "subfolders": {
+                "flags": {
+                    "total_commands": 213,
+                    "total_overwrites": 3703,
+                    "flags": {
+                        "Nepal": {
+                            "commands": 34,
+                            "is_efficient": false,
+                            "overwrites": 127
+                        },
+                        "Germany": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 480
+                        },
+                        "Sweden": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 600
+                        },
+                        "Brazil": {
+                            "commands": 36,
+                            "is_efficient": false,
+                            "overwrites": 502
+                        },
+                        "Zambia": {
+                            "commands": 5,
+                            "is_efficient": false,
+                            "overwrites": 364
+                        },
+                        "Australia": {
+                            "commands": 8,
+                            "is_efficient": false,
+                            "overwrites": 754
+                        },
+                        "Bhutan": {
+                            "commands": 31,
+                            "is_efficient": false,
+                            "overwrites": 468
+                        },
+                        "Saudi Arabia": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 36
+                        },
+                        "Kazakhstan": {
+                            "commands": 12,
+                            "is_efficient": false,
+                            "overwrites": 220
+                        },
+                        "Tanzania": {
+                            "commands": 77,
+                            "is_efficient": false,
+                            "overwrites": 152
+                        }
+                    }
+                },
+                "flags2": {
+                    "total_commands": 38,
+                    "total_overwrites": 3517,
+                    "flags": {
+                        "Nepal": {
+                            "commands": 5,
+                            "is_efficient": false,
+                            "overwrites": 780
+                        },
+                        "Germany": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 1000
+                        },
+                        "Sweden": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 400
+                        },
+                        "Brazil": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 372
+                        },
+                        "Zambia": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 450
+                        },
+                        "Australia": {
+                            "commands": 6,
+                            "is_efficient": false,
+                            "overwrites": 391
+                        },
+                        "Bhutan": {
+                            "commands": 2,
+                            "is_efficient": true,
+                            "overwrites": 8
+                        },
+                        "Saudi Arabia": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 20
+                        },
+                        "Kazakhstan": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 34
+                        },
+                        "Tanzania": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 62
+                        }
+                    }
+                },
+                "flags3": {
+                    "total_commands": 52,
+                    "total_overwrites": 8511,
+                    "flags": {
+                        "Nepal": {
+                            "commands": 7,
+                            "is_efficient": false,
+                            "overwrites": 2326
+                        },
+                        "Germany": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 0
+                        },
+                        "Sweden": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 320
+                        },
+                        "Brazil": {
+                            "commands": 17,
+                            "is_efficient": false,
+                            "overwrites": 2268
+                        },
+                        "Zambia": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 510
+                        },
+                        "Australia": {
+                            "commands": 6,
+                            "is_efficient": false,
+                            "overwrites": 223
+                        },
+                        "Bhutan": {
+                            "commands": 2,
+                            "is_efficient": true,
+                            "overwrites": 750
+                        },
+                        "Saudi Arabia": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 80
+                        },
+                        "Kazakhstan": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 154
+                        },
+                        "Tanzania": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 1880
+                        }
+                    }
+                }
+            }
+        },
+        "gemini": {
+            "subfolders": {
+                "flags": {
+                    "total_commands": 64,
+                    "total_overwrites": 18632,
+                    "flags": {
+                        "Nepal": {
+                            "commands": 12,
+                            "is_efficient": false,
+                            "overwrites": 1146
+                        },
+                        "Germany": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 1000
+                        },
+                        "Sweden": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 1230
+                        },
+                        "Brazil": {
+                            "commands": 5,
+                            "is_efficient": false,
+                            "overwrites": 503
+                        },
+                        "Zambia": {
+                            "commands": 7,
+                            "is_efficient": false,
+                            "overwrites": 2079
+                        },
+                        "Australia": {
+                            "commands": 8,
+                            "is_efficient": false,
+                            "overwrites": 1089
+                        },
+                        "Bhutan": {
+                            "commands": 5,
+                            "is_efficient": false,
+                            "overwrites": 1544
+                        },
+                        "Saudi Arabia": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 168
+                        },
+                        "Kazakhstan": {
+                            "commands": 5,
+                            "is_efficient": false,
+                            "overwrites": 3053
+                        },
+                        "Tanzania": {
+                            "commands": 12,
+                            "is_efficient": false,
+                            "overwrites": 6820
+                        }
+                    }
+                },
+                "flags2": {
+                    "total_commands": 98,
+                    "total_overwrites": 16556,
+                    "flags": {
+                        "Nepal": {
+                            "commands": 55,
+                            "is_efficient": false,
+                            "overwrites": 2668
+                        },
+                        "Germany": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 1500
+                        },
+                        "Sweden": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 1910
+                        },
+                        "Brazil": {
+                            "commands": 5,
+                            "is_efficient": false,
+                            "overwrites": 1490
+                        },
+                        "Zambia": {
+                            "commands": 10,
+                            "is_efficient": false,
+                            "overwrites": 3130
+                        },
+                        "Australia": {
+                            "commands": 12,
+                            "is_efficient": false,
+                            "overwrites": 1685
+                        },
+                        "Bhutan": {
+                            "commands": 6,
+                            "is_efficient": false,
+                            "overwrites": 2673
+                        },
+                        "Saudi Arabia": {
+                            "commands": 2,
+                            "is_efficient": true,
+                            "overwrites": 1500
+                        }
+                    }
+                },
+                "flags3": {
+                    "total_commands": 84,
+                    "total_overwrites": 21923,
+                    "flags": {
+                        "Nepal": {
+                            "commands": 7,
+                            "is_efficient": false,
+                            "overwrites": 800
+                        },
+                        "Germany": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 1000
+                        },
+                        "Sweden": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 410
+                        },
+                        "Brazil": {
+                            "commands": 9,
+                            "is_efficient": false,
+                            "overwrites": 935
+                        },
+                        "Zambia": {
+                            "commands": 8,
+                            "is_efficient": false,
+                            "overwrites": 2383
+                        },
+                        "Australia": {
+                            "commands": 16,
+                            "is_efficient": false,
+                            "overwrites": 1773
+                        },
+                        "Bhutan": {
+                            "commands": 10,
+                            "is_efficient": false,
+                            "overwrites": 1935
+                        },
+                        "Saudi Arabia": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 149
+                        },
+                        "Kazakhstan": {
+                            "commands": 10,
+                            "is_efficient": false,
+                            "overwrites": 2038
+                        },
+                        "Tanzania": {
+                            "commands": 14,
+                            "is_efficient": false,
+                            "overwrites": 10500
+                        }
+                    }
+                }
+            }
+        },
+        "llama": {
+            "subfolders": {
+                "flags": {
+                    "total_commands": 54,
+                    "total_overwrites": 7659,
+                    "flags": {
+                        "Nepal": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 50
+                        },
+                        "Germany": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 720
+                        },
+                        "Sweden": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 840
+                        },
+                        "Brazil": {
+                            "commands": 5,
+                            "is_efficient": false,
+                            "overwrites": 771
+                        },
+                        "Zambia": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 840
+                        },
+                        "Australia": {
+                            "commands": 7,
+                            "is_efficient": false,
+                            "overwrites": 891
+                        },
+                        "Bhutan": {
+                            "commands": 6,
+                            "is_efficient": false,
+                            "overwrites": 874
+                        },
+                        "Saudi Arabia": {
+                            "commands": 7,
+                            "is_efficient": false,
+                            "overwrites": 891
+                        },
+                        "Kazakhstan": {
+                            "commands": 7,
+                            "is_efficient": false,
+                            "overwrites": 891
+                        },
+                        "Tanzania": {
+                            "commands": 7,
+                            "is_efficient": false,
+                            "overwrites": 891
+                        }
+                    }
+                },
+                "flags2": {
+                    "total_commands": 44,
+                    "total_overwrites": 10140,
+                    "flags": {
+                        "Nepal": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 450
+                        },
+                        "Germany": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 1260
+                        },
+                        "Sweden": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 600
+                        },
+                        "Brazil": {
+                            "commands": 5,
+                            "is_efficient": false,
+                            "overwrites": 1050
+                        },
+                        "Zambia": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 600
+                        },
+                        "Australia": {
+                            "commands": 5,
+                            "is_efficient": false,
+                            "overwrites": 840
+                        },
+                        "Bhutan": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 1080
+                        },
+                        "Saudi Arabia": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 810
+                        },
+                        "Kazakhstan": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 660
+                        },
+                        "Tanzania": {
+                            "commands": 8,
+                            "is_efficient": false,
+                            "overwrites": 2790
+                        }
+                    }
+                },
+                "flags3": {
+                    "total_commands": 45,
+                    "total_overwrites": 21378,
+                    "flags": {
+                        "Nepal": {
+                            "commands": 5,
+                            "is_efficient": false,
+                            "overwrites": 1500
+                        },
+                        "Germany": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 2250
+                        },
+                        "Sweden": {
+                            "commands": 3,
+                            "is_efficient": true,
+                            "overwrites": 1500
+                        },
+                        "Brazil": {
+                            "commands": 5,
+                            "is_efficient": false,
+                            "overwrites": 2460
+                        },
+                        "Zambia": {
+                            "commands": 5,
+                            "is_efficient": false,
+                            "overwrites": 1530
+                        },
+                        "Australia": {
+                            "commands": 6,
+                            "is_efficient": false,
+                            "overwrites": 1773
+                        },
+                        "Bhutan": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 2805
+                        },
+                        "Saudi Arabia": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 3000
+                        },
+                        "Kazakhstan": {
+                            "commands": 4,
+                            "is_efficient": false,
+                            "overwrites": 2280
+                        },
+                        "Tanzania": {
+                            "commands": 5,
+                            "is_efficient": false,
+                            "overwrites": 2280
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

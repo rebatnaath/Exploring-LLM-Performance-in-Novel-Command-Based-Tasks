@@ -1,0 +1,140 @@
+{
+    "maze_info": {
+      "seed": 990126,
+      "size": 11
+    },
+    "attempts": [
+      {
+        "name": "chatgpt-reasoning",
+        "commands": [
+            "move down 4",
+            "move right 2",
+            "move up 4",
+            "move right 2",
+            "move down 4",
+            "move right 4",
+            "move down 2",
+            "move left 2",
+            "move down 2",
+            "move right 2"
+
+  
+          
+        ]
+      },
+      {
+        "name": "chatgpt-ai",
+        "commands": [
+            "move right",
+            "move right",
+            "move right",
+            "move down",
+            "move down",
+            "move right",
+            "move down",
+            "move down",
+            "move right",
+            "move right",
+            "move down",
+            "move down",
+            "move left",
+            "move down",
+            "move right",
+            "move right",
+            "move right",
+            "move down",
+            "move right"
+
+  
+        ]
+      },
+      {
+        "name": "deepseek-ai",
+        "commands": [
+            "move right 3",
+            "move down",
+            "move right 2",
+            "move down",
+            "move left",
+            "move down 2",
+            "move right 2",
+            "move down 2",
+            "move left 5",
+            "move down",
+            "move right 5"
+  
+        ]
+      },
+      {
+        "name": "deepseek-reasoning",
+        "commands": [
+            "move right 2",
+            "move down 2",
+            "move left 2",
+            "move down 2",
+            "move right 6",
+            "move up 1",
+            "move right 2",
+            "move down 1"
+  
+        ]
+      },
+      {
+        "name": "llama",
+        "commands": [
+            "move right",
+            "move right",
+            "move down",
+            "move right",
+            "move right",
+            "move down",
+            "move down",
+            "move right",
+            "move right",
+            "move right",
+            "move right",
+            "move down",
+            "move right",
+            "move right",
+            "move right",
+            "move right",
+            "move down",
+            "move down",
+            "move right",
+            "move right",
+            "move right"
+        ]
+      },
+      {
+        "name": "gemini",
+        "commands": [
+            "move right 4",
+            "move down 1",
+            "move right 2",
+            "move down 7",
+            "move right 1"
+        ]
+      },
+      {
+        "name": "claude",
+        "commands": [
+            "move down",
+            "move down",
+            "move down",
+            "move down",
+            "move right",
+            "move right",
+            "move right",
+            "move down",
+            "move down",
+            "move down",
+            "move down",
+            "move right",
+            "move right",
+            "move right",
+            "move right",
+            "move right"
+        ]
+      }
+    ]
+  }

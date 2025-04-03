@@ -1,0 +1,353 @@
+{
+    "overall_average": 3.15,
+    "ai_folders": {
+        "llama": {
+            "average": 1.17,
+            "subfolders": {
+                "flags3": {
+                    "average": 1.0,
+                    "flags": {
+                        "Nepal": 1,
+                        "Sweden": 1,
+                        "Kazakhstan": 1,
+                        "Australia": 1,
+                        "Zambia": 1,
+                        "Saudi Arabia": 1,
+                        "Brazil": 1,
+                        "Bhutan": 1,
+                        "Germany": 1,
+                        "Tanzania": 1
+                    }
+                },
+                "flags": {
+                    "average": 1.4,
+                    "flags": {
+                        "Germany": 2,
+                        "Sweden": 1,
+                        "Tanzania": 3,
+                        "Australia": 1,
+                        "Bhutan": 1,
+                        "Kazakhstan": 1,
+                        "Nepal": 1,
+                        "Brazil": 1,
+                        "Saudi Arabia": 2,
+                        "Zambia": 1
+                    }
+                },
+                "flags2": {
+                    "average": 1.1,
+                    "flags": {
+                        "Bhutan": 1,
+                        "Kazakhstan": 1,
+                        "Germany": 1,
+                        "Brazil": 1,
+                        "Nepal": 1,
+                        "Australia": 1,
+                        "Zambia": 1,
+                        "Tanzania": 1,
+                        "Sweden": 1,
+                        "Saudi Arabia": 2
+                    }
+                }
+            }
+        },
+        "deepseek-r1": {
+            "average": 4.5,
+            "subfolders": {
+                "flags2": {
+                    "average": 4.4,
+                    "flags": {
+                        "Nepal": 2,
+                        "Bhutan": 2,
+                        "Tanzania": 1,
+                        "Sweden": 10,
+                        "Germany": 10,
+                        "Australia": 3,
+                        "Kazakhstan": 2,
+                        "Brazil": 6,
+                        "Zambia": 6,
+                        "Saudi Arabia": 2
+                    }
+                },
+                "flags3": {
+                    "average": 4.6,
+                    "flags": {
+                        "Kazakhstan": 4,
+                        "Zambia": 7,
+                        "Brazil": 3,
+                        "Nepal": 1,
+                        "Bhutan": 2,
+                        "Germany": 10,
+                        "Australia": 5,
+                        "Sweden": 10,
+                        "Saudi Arabia": 2,
+                        "Tanzania": 2
+                    }
+                },
+                "flags": {
+                    "average": 4.5,
+                    "flags": {
+                        "Australia": 3,
+                        "Nepal": 3,
+                        "Zambia": 8,
+                        "Sweden": 9,
+                        "Germany": 2,
+                        "Brazil": 4,
+                        "Tanzania": 2,
+                        "Kazakhstan": 5,
+                        "Saudi Arabia": 2,
+                        "Bhutan": 7
+                    }
+                }
+            }
+        },
+        "chatgpt-thinking": {
+            "average": 4.13,
+            "subfolders": {
+                "flags2": {
+                    "average": 4.2,
+                    "flags": {
+                        "Australia": 7,
+                        "Brazil": 3,
+                        "Zambia": 1,
+                        "Saudi Arabia": 2,
+                        "Tanzania": 3,
+                        "Nepal": 1,
+                        "Kazakhstan": 2,
+                        "Germany": 10,
+                        "Sweden": 10,
+                        "Bhutan": 3
+                    }
+                },
+                "flags": {
+                    "average": 4.0,
+                    "flags": {
+                        "Brazil": 4,
+                        "Sweden": 10,
+                        "Bhutan": 4,
+                        "Tanzania": 1,
+                        "Nepal": 1,
+                        "Zambia": 2,
+                        "Australia": 4,
+                        "Kazakhstan": 2,
+                        "Germany": 10,
+                        "Saudi Arabia": 2
+                    }
+                },
+                "flags3": {
+                    "average": 4.2,
+                    "flags": {
+                        "Germany": 10,
+                        "Saudi Arabia": 4,
+                        "Nepal": 3,
+                        "Zambia": 2,
+                        "Sweden": 10,
+                        "Brazil": 3,
+                        "Kazakhstan": 2,
+                        "Australia": 3,
+                        "Tanzania": 1,
+                        "Bhutan": 4
+                    }
+                }
+            }
+        },
+        "chatgpt": {
+            "average": 3.5,
+            "subfolders": {
+                "flags2": {
+                    "average": 3.6,
+                    "flags": {
+                        "Tanzania": 2,
+                        "Germany": 10,
+                        "Zambia": 2,
+                        "Australia": 3,
+                        "Kazakhstan": 2,
+                        "Brazil": 3,
+                        "Bhutan": 2,
+                        "Saudi Arabia": 2,
+                        "Sweden": 9,
+                        "Nepal": 1
+                    }
+                },
+                "flags": {
+                    "average": 3.9,
+                    "flags": {
+                        "Brazil": 4,
+                        "Bhutan": 3,
+                        "Germany": 10,
+                        "Australia": 3,
+                        "Tanzania": 1,
+                        "Sweden": 10,
+                        "Saudi Arabia": 2,
+                        "Zambia": 2,
+                        "Nepal": 1,
+                        "Kazakhstan": 3
+                    }
+                },
+                "flags3": {
+                    "average": 3.0,
+                    "flags": {
+                        "Zambia": 2,
+                        "Nepal": 2,
+                        "Australia": 4,
+                        "Saudi Arabia": 2,
+                        "Germany": 10,
+                        "Sweden": 1,
+                        "Brazil": 2,
+                        "Bhutan": 2,
+                        "Kazakhstan": 3,
+                        "Tanzania": 2
+                    }
+                }
+            }
+        },
+        "claude": {
+            "average": 4.07,
+            "subfolders": {
+                "flags2": {
+                    "average": 4.1,
+                    "flags": {
+                        "Tanzania": 2,
+                        "Australia": 2,
+                        "Brazil": 3,
+                        "Saudi Arabia": 4,
+                        "Sweden": 10,
+                        "Nepal": 4,
+                        "Germany": 10,
+                        "Zambia": 2,
+                        "Bhutan": 1,
+                        "Kazakhstan": 3
+                    }
+                },
+                "flags3": {
+                    "average": 3.9,
+                    "flags": {
+                        "Kazakhstan": 2,
+                        "Saudi Arabia": 3,
+                        "Australia": 2,
+                        "Tanzania": 1,
+                        "Zambia": 2,
+                        "Bhutan": 2,
+                        "Brazil": 4,
+                        "Sweden": 10,
+                        "Nepal": 3,
+                        "Germany": 10
+                    }
+                },
+                "flags": {
+                    "average": 4.2,
+                    "flags": {
+                        "Tanzania": 3,
+                        "Australia": 2,
+                        "Bhutan": 4,
+                        "Sweden": 10,
+                        "Kazakhstan": 2,
+                        "Zambia": 2,
+                        "Brazil": 3,
+                        "Germany": 10,
+                        "Nepal": 4,
+                        "Saudi Arabia": 2
+                    }
+                }
+            }
+        },
+        "gemini": {
+            "average": 3.0,
+            "subfolders": {
+                "flags": {
+                    "average": 2.0,
+                    "flags": {
+                        "Australia": 2,
+                        "Sweden": 1,
+                        "Brazil": 2,
+                        "Kazakhstan": 1,
+                        "Zambia": 1,
+                        "Saudi Arabia": 2,
+                        "Germany": 6,
+                        "Tanzania": 1,
+                        "Bhutan": 3,
+                        "Nepal": 1
+                    }
+                },
+                "flags3": {
+                    "average": 3.3,
+                    "flags": {
+                        "Nepal": 2,
+                        "Sweden": 8,
+                        "Australia": 1,
+                        "Bhutan": 3,
+                        "Saudi Arabia": 2,
+                        "Germany": 10,
+                        "Zambia": 1,
+                        "Kazakhstan": 2,
+                        "Brazil": 3,
+                        "Tanzania": 1
+                    }
+                },
+                "flags2": {
+                    "average": 3.88,
+                    "flags": {
+                        "Bhutan": 2,
+                        "Nepal": 3,
+                        "Australia": 1,
+                        "Sweden": 9,
+                        "Germany": 10,
+                        "Saudi Arabia": 1,
+                        "Zambia": 1,
+                        "Brazil": 4
+                    }
+                }
+            }
+        },
+        "deepseek": {
+            "average": 1.67,
+            "subfolders": {
+                "flags": {
+                    "average": 1.7,
+                    "flags": {
+                        "Brazil": 2,
+                        "Saudi Arabia": 2,
+                        "Nepal": 2,
+                        "Germany": 1,
+                        "Sweden": 1,
+                        "Zambia": 2,
+                        "Australia": 2,
+                        "Kazakhstan": 2,
+                        "Tanzania": 2,
+                        "Bhutan": 1
+                    }
+                },
+                "flags3": {
+                    "average": 1.9,
+                    "flags": {
+                        "Zambia": 1,
+                        "Bhutan": 1,
+                        "Germany": 10,
+                        "Brazil": 1,
+                        "Tanzania": 1,
+                        "Nepal": 1,
+                        "Sweden": 1,
+                        "Australia": 1,
+                        "Saudi Arabia": 1,
+                        "Kazakhstan": 1
+                    }
+                },
+                "flags2": {
+                    "average": 1.4,
+                    "flags": {
+                        "Bhutan": 1,
+                        "Saudi Arabia": 1,
+                        "Australia": 1,
+                        "Nepal": 1,
+                        "Kazakhstan": 1,
+                        "Tanzania": 1,
+                        "Germany": 5,
+                        "Sweden": 1,
+                        "Brazil": 1,
+                        "Zambia": 1
+                    }
+                }
+            }
+        }
+    }
+}

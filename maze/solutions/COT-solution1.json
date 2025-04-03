@@ -1,0 +1,103 @@
+{
+    "maze_info": {
+      "seed": 493789,
+      "size": 11
+    },
+    "attempts": [
+      {
+        "name": "chatgpt-reasoning",
+        "commands": [   
+        ]
+      },
+      {
+        "name": "chatgpt-ai",
+        "commands": [
+            "move right",
+            "move down",
+            "move down",
+            "move down",
+            "move down",
+            "move right",
+            "move right",
+            "move right",
+            "move down",
+            "move left",
+            "move left",
+            "move left",
+            "move down",
+            "move right",
+            "move right",
+            "move down",
+            "move right",
+            "move right",
+            "move right",
+            "move down",
+            "move left",
+            "move left",
+            "move down",
+            "move right",
+            "move down",
+            "move right",
+            "move right",
+            "move down",
+            "move down",
+            "move right"
+
+  
+        ]
+      },
+      {
+        "name": "deepseek-ai",
+        "commands": [
+            "move down",
+            "move right",
+            "move down",
+            "move right",
+            "move down",
+            "move right",
+            "move down",
+            "move right",
+            "move down",
+            "move right",
+            "move down",
+            "move right",
+            "move down",
+            "move right"
+  
+        ]
+      },
+      {
+        "name": "deepseek-reasoning",
+        "commands": [
+        ]
+      },
+      {
+        "name": "llama",
+        "commands": [
+            "move right 7",
+            "move down 7",
+            "move right 4"
+        ]
+      },
+      {
+        "name": "gemini",
+        "commands": [
+            "move right 8",
+            "move down 8"
+        ]
+      },
+      {
+        "name": "claude",
+        "commands": [
+            "move down 4",
+            "move right 2",
+            "move down 2",
+            "move right 4",
+            "move down",
+            "move right",
+            "move down",
+            "move right"
+        ]
+      }
+    ]
+  }

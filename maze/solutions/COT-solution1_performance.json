@@ -1,0 +1,58 @@
+[
+  {
+    "name": "chatgpt-reasoning",
+    "moves": 0,
+    "reached_goal": false,
+    "cells_visited": 1,
+    "maze_seed": 493789,
+    "maze_size": 11
+  },
+  {
+    "name": "chatgpt-ai",
+    "moves": 15,
+    "reached_goal": false,
+    "cells_visited": 16,
+    "maze_seed": 493789,
+    "maze_size": 11
+  },
+  {
+    "name": "deepseek-ai",
+    "moves": 8,
+    "reached_goal": false,
+    "cells_visited": 9,
+    "maze_seed": 493789,
+    "maze_size": 11
+  },
+  {
+    "name": "deepseek-reasoning",
+    "moves": 0,
+    "reached_goal": false,
+    "cells_visited": 1,
+    "maze_seed": 493789,
+    "maze_size": 11
+  },
+  {
+    "name": "llama",
+    "moves": 6,
+    "reached_goal": false,
+    "cells_visited": 7,
+    "maze_seed": 493789,
+    "maze_size": 11
+  },
+  {
+    "name": "gemini",
+    "moves": 4,
+    "reached_goal": false,
+    "cells_visited": 5,
+    "maze_seed": 493789,
+    "maze_size": 11
+  },
+  {
+    "name": "claude",
+    "moves": 8,
+    "reached_goal": false,
+    "cells_visited": 9,
+    "maze_seed": 493789,
+    "maze_size": 11
+  }
+]
